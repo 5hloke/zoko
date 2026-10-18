@@ -4,6 +4,7 @@
 4) source venv/bin/activate
 5) brew install oven-sh/bun/bun
 6) cd opencode && bun install
+8) bun run dev
 7) pip install -r requirements.txt 
 
 
